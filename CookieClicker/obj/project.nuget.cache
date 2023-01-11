@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "lJktvCLANlO0Ooj8WH4NGR4nAxgKap/G1612zRy5+oisHn89UxKGNIxIbOOF1Efa/+FadZVthtvJ5PWhmSwbdg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lucas.krantz\\2022-2023 Programmering\\CookieClicker\\CookieClicker\\CookieClicker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lucas.krantz\\.nuget\\packages\\raylib-cs\\4.2.0.1\\raylib-cs.4.2.0.1.nupkg.sha512",
+    "C:\\Users\\lucas.krantz\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
