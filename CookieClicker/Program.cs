@@ -1,4 +1,4 @@
-﻿using Raylib_cs;
+using Raylib_cs;
 using System.Numerics;
 
 
@@ -14,6 +14,8 @@ int mouseY = Raylib.GetMouseY();
 int CookiePwr = 1;
 int Cookies = 0;
 int Cost1 = 10;
+bool Buy100x = false;
+bool Buy1x = true;
 Texture2D BtnImage = Raylib.LoadTexture("pixil-button-round.png");
 Texture2D CookieImage = Raylib.LoadTexture("Pixel-cookie.png");
 Rectangle rect = new Rectangle(0, 0, CookieImage.width, CookieImage.height);
